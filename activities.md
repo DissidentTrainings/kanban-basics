@@ -25,4 +25,3 @@ Use the principles
 * Maintain Flow
 * Pull Through the System
 * Strive for Perfection
-
